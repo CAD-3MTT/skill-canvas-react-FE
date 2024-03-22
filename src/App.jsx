@@ -33,7 +33,7 @@ function App() {
     <section className="col-span-1">
       <div className="hero-section">
         
-        <img src="./assets/mobile-hero-image.png" alt="smiling man with glasses " className="hero-img" />
+        <img src="/mobile-hero-image.png" alt="smiling man with glasses " className="hero-img" />
         <div className="hero-content ">
           <div className="hero-text-container show-mobile-only">
             <p className="hero-text-name">John Doe</p>
@@ -72,10 +72,10 @@ function App() {
         <div className="socials-section">
           <h5 className="section-titles">Socials</h5>
           <div className="socials-icons">
-            <img src="./assets/icons8-linked-in-48.png" alt="" className="" />
-            <img src="./assets/icons8-twitterx-50.png" alt="" className="" />
-            <img src="./assets/icons8-instagram-48.png" alt="" className="" />
-            <img src="./assets/icons8-facebook-48.png" alt="" className="" />
+            <img src="/icons8-linked-in-48.png" alt="" className="" />
+            <img src="/icons8-twitterx-50.png" alt="" className="" />
+            <img src="/icons8-instagram-48.png" alt="" className="" />
+            <img src="/icons8-facebook-48.png" alt="" className="" />
           </div>
           <div className="contact-btn-wrapper">
             <button className="btn btn-outline">Contact Me now</button>
@@ -160,7 +160,7 @@ function App() {
         <div className="experience-container">
           <div className="experience-wrapper">
             <div className="">
-              <img src="./assets/icons8-linked-in-48.png" alt="" />
+              <img src="/icons8-linked-in-48.png" alt="" />
             </div>
             <div className="">
               <p className="sub-info-label">Software Engineer</p>
@@ -169,7 +169,7 @@ function App() {
           </div>
           <div className="experience-wrapper">
             <div className="">
-              <img src="./assets/icons8-linked-in-48.png" alt="" />
+              <img src="/icons8-linked-in-48.png" alt="" />
             </div>
             <div className="">
               <p className="sub-info-label">Design Supervisor</p>
@@ -179,7 +179,7 @@ function App() {
           {/* <!-- Experience --> */}
           <div className="experience-wrapper">
             <div className="">
-              <img src="./assets/icons8-linked-in-48.png" alt="" />
+              <img src="/icons8-linked-in-48.png" alt="" />
             </div>
             <div className="">
               <p className="sub-info-label">Communication Manager</p>
